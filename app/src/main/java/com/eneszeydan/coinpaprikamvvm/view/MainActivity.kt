@@ -1,7 +1,8 @@
-package com.eneszeydan.coinpaprikamvvm
+package com.eneszeydan.coinpaprikamvvm.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.eneszeydan.coinpaprikamvvm.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

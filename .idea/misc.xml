@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ZEYDAN/AndroidStudioProjects/CoinPaprikaMVVM/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/ZEYDAN/AndroidStudioProjects/CoinPaprikaMVVM/app/src/main/res/layout/coin_list_row.xml" value="0.24954710144927536" />
         <entry key="..\:/Users/ZEYDAN/AndroidStudioProjects/CoinPaprikaMVVM/app/src/main/res/layout/coins_list_row.xml" value="0.22327898550724637" />
         <entry key="..\:/Users/ZEYDAN/AndroidStudioProjects/CoinPaprikaMVVM/app/src/main/res/layout/fragment_coins_list.xml" value="0.23007246376811594" />
