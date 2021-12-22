@@ -9,6 +9,7 @@ import kotlin.coroutines.CoroutineContext
 
 abstract class BaseViewModel(application: Application):AndroidViewModel(application), CoroutineScope{
 
+    //BaseViewModel to implement Coroutines
     private val job= Job()
     override val coroutineContext: CoroutineContext
         get() = job + Dispatchers.Main
